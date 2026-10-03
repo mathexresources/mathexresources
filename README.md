@@ -1,20 +1,62 @@
-<h1 align="center">Hi 👋, I'm Matouš</h1>
-<h3 align="center">A passionate developer from Czech Republic</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mathexresources&label=Profile%20views&color=0e75b6&style=flat" alt="mathexresources" /> </p>
+# Matouš | Full-Stack Developer & Web Solutions
+### Stavím moderní, rychlé weby a webové aplikace, které pomáhají firmám růst a vydělávat.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mathexresources" alt="mathexresources" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="mailto:mathexyz@proton.me"><img src="https://img.shields.io/badge/Napište_si_o_nezávaznou_konzultaci-0e75b6?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Contact Me" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mathexresources&show_icons=true&locale=en&layout=compact" alt="mathexresources" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mathexresources&show_icons=true&locale=en" alt="mathexresources" /></p>
+## 🎯 Proč se mnou spolupracovat?
+Většina vývojářů se kouká jen na kód. Já se koukám na **byznysový dopad**. 
+Když stavím web nebo aplikaci, řeším nejen to, aby pod kapotou všechno šlapalo na sto procent, ale hlavně to, aby byl výsledek přehledný pro uživatele, skvěle vypadal v mobilu a plnil svůj účel – ať už jde o akvizici zákazníků, automatizaci procesů nebo modernizaci zastaralého systému.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mathexresources&" alt="mathexresources" /></p>
+---
 
+## 🛠️ Co pro vás můžu udělat (Služby)
+
+### 1. Redesign a modernizace webů (UI/UX & Frontend)
+Máte starý, nepřehledný nebo pomalý web, na kterém zákazníci bloudí a nedokážou najít kontakty ani ceník? 
+* **Co řeším:** Kompletní přeměnu zastaralých stránek na moderní, vizuálně čisté a rychlé weby.
+* **Výsledek:** Profesionální první dojem, jasná struktura, vyšší konverze a spokojení zákazníci (zkušenosti mám např. s redesignem prezentací pro gastro a lokální podniky).
+
+### 2. Vývoj webových aplikací na míru (Full-Stack)
+Potřebujete specifický systém, administraci, rezervační rozhraní nebo interní nástroj, který vám ušetří hodiny ruční práce?
+* **Jak pracuji:** Navrhnu a zandám robustní backend a spojím ho s čistým, interaktivním frontendem.
+* **Technologické zázemí:** Stavím na stabilních a osvědčených technologiích, které jsou bezpečné a snadno škálovatelné.
+
+### 3. Optimalizace výkonu a uživatelské přívětivosti
+* Pomalé načítání webu odrazuje lidi dřív, než vůbec stihnou něco koupit. Optimalizuji rychlost, strukturu kódu a celkovou použitelnost (mobile-first přístup).
+
+---
+
+## 💻 Moje technologické stacky & nástroje
+
+* **Jazyky & Core:** PHP, Go (Golang), Python, JavaScript, TypeScript, Bash
+* **Frameworky & Backend:** Laravel, moderní REST API architektury
+* **Frontend & UI/UX:** Tailwind CSS, Bootstrap, JavaScript, Figma (návrhy a prototypy před samotným kódováním)
+* **Databáze & Infrastruktura:** MySQL, MariaDB, SQLite, Firebase, Docker, Linux (správa a deployment)
+* **Nástroje & Version Control:** Git, Postman, Arduino (pro hardwarové/IoT přesahy)
+
+---
+
+## 📈 Jak probíhá spolupráce?
+
+1. **Nezávazná konzultace:** Napíšete mi, co potřebujete, jaký máte problém nebo jak vypadá váš stávající web.
+2. **Audit & Návrh řešení:** Podívám se na to, připravím zpětnou vazbu a navrhnu efektivní postup (často včetně rychlého vizuálního konceptu/mockupu).
+3. **Realizace:** Krok za krokem dodávám čistý kód, testuji a ladím detaily.
+4. **Spuštění a podpora:** Web spustíme do ostrého provozu a jsem k dispozici pro případné úpravy či rozvoj.
+
+---
+
+## 📬 Pojďme to probrat
+Máte projekt v hlavy, potřebujete audit stávajícího webu nebo chcete posunout své podnikání v online prostoru dál? 
+
+* **E-mail:** `tvojemail@domain.com`
+* **Lokalita:** Česká republika / Dostupné pro remote projekty a spolupráce.
+
+*Ozvěte se mi a rádi nezávazně probereme, co by dávalo pro váš záměr největší smysl.*
