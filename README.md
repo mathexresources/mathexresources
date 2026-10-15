@@ -56,7 +56,7 @@ Potřebujete specifický systém, administraci, rezervační rozhraní nebo inte
 ## 📬 Pojďme to probrat
 Máte projekt v hlavy, potřebujete audit stávajícího webu nebo chcete posunout své podnikání v online prostoru dál? 
 
-* **E-mail:** `tvojemail@domain.com`
+* **E-mail:** `mathexyz@proton.me`
 * **Lokalita:** Česká republika / Dostupné pro remote projekty a spolupráce.
 
 *Ozvěte se mi a rádi nezávazně probereme, co by dávalo pro váš záměr největší smysl.*
